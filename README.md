@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I am Daniel and a Professional Problem Solver
+
+## Work
+```typescript
+{
+  work: "Freelance Full Stack Engineer",
+  techStack: ["Angular", "Spring Boot", "Nx", "Express.js", "Nest.js"],
+  location: {
+    country: "Taiwan",
+    city: "Taichung City"
+  },
+  spezialization: "Accessibility (a11y)"
+}
+```
+
+## How to reach me?
+- [LinkedIn](https://www.linkedin.com/in/daniel-bulic-dev)
+- [Website](https://www.danielbulic.dev/)
+- [GitLab](https://gitlab.com/bulicovic)
+- Email: info@danielbulic.dev
 
 <!--
 **bulicovic/bulicovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
