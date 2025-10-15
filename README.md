@@ -5,11 +5,20 @@
 {
   work: "Freelance Full Stack Engineer",
   techStack: ["Angular", "Spring Boot", "Nx", "Express.js", "Nest.js"],
-  location: {
-    country: "Taiwan",
-    city: "Taichung City"
-  },
-  spezialization: "Accessibility (a11y)"
+  locations: [
+    {
+      country: "Germany",
+      city: "Karlsruhe"
+    },
+    {
+      country: "Taiwan",
+      city: "Taichung City"
+    }
+  ],
+  spezializations: [
+    "Accessibility (a11y)",
+    "Angular",
+    "Spring Boot"
 }
 ```
 
